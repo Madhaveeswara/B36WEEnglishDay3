@@ -1,0 +1,99 @@
+{
+    "Name": "V. Madhaveeswara Brahmaji",
+    "Profile": "My passion is for building and shipping software. I have over 13 years industry experience including many product releases.I have worked and managed with geographically dispersed teams using Waterfall and Agile SCRUM software processes.",
+    "Technical Experience": "As a software engineer I have developed server side components on Adobe Experience Manager (AEM) / CQ5 platform for Destaco project, Pall project at WHISK Software (GSPANN), CHI project, T-Mobile project at ProKarma, D.com project at client Deloitte client.",
+    "Software and Tools": "Windows 7, Eclipse, VS Code, core Java, Javascript, Rally, Jira, Angular, Maven, PowerMock, Adobe Experience Manager ( AEM ). ",
+    "Work Experience": [{ 
+     "Name of Company":"WHISK Software (GSPANN)",
+     "Role":"Technical Lead",
+     "Client":"Pall (Pall.com)",
+     "Responsiblities":["Developed components using Adobe Experience Manager (AEM) 6.5.",
+        "Third party integration with Algolia search platform.",
+        "Training and supporting new joinees on AEM platform.Training and supporting new joinees on AEM platform.",
+        "Managing a team of 6 AEM / Front-end resources."
+        ]
+    }, { 
+        "Name of Company":"WHISK Software (GSPANN)",
+        "Role":"Technical Lead",
+        "Client":"Destaco (Dover company)",
+        "Responsiblities":[
+            "Developed components using Adobe Experience Manager (AEM) 6.5.",
+           "Followed Agile SCRUM methodology",
+           "Performing design reviews and code reviews.",
+           "Managing a team of 5 AEM / Front-end resources."
+           ]
+       }, { 
+        "Name of Company":"ProKarma Softech Pvt. Ltd",
+        "Role":"Technical Lead",
+        "Client":"Catholic Health Initiatives (CHI)",
+        "Responsiblities":[
+            "Developed components using Adobe Experience Manager (AEM) / Adobe CQ5v 6.3.",
+           "Developed utility scripts for creating custom reports.",
+           "Fixed bugs as part of support project.",
+           "Mentoring new joinees onboard and training other teams.",
+           "Managing a team of 4 AEM resources."
+           ]
+       }, { 
+        "Name of Company":"ProKarma Softech Pvt. Ltd",
+        "Role":"Technical Lead",
+        "Client":"T-Mobile",
+        "Responsiblities":[
+            "Developed components using Adobe Experience Manager (AEM) / Adobe CQ5.",
+           "Supporting the team on deployments of AEM packages on higher environments.",
+           "Fixed bugs as part of support project.",
+           "Mentoring new joinees onboard and training other teams."
+           ]
+       },{ 
+        "Name of Company":"Magna Infotech",
+        "Role":"Lead Software Engineer",
+        "Client":"Deloitte Pvt. Ltd., Global Technology Solutions group.",
+        "Responsiblities":[
+            "Mainly working on Deloitte international website www.deloitte.com project.",
+           "Developed components using Adobe Experience Manager (AEM) / Adobe CQ5.",
+           "Developed Utility scripts.",
+           "Developed Backend Schedulers and Preprocessors."
+           ]
+       },{ 
+        "Name of Company":"General Electric ( GE )",
+        "Role":"Advanced Software Engineer",
+        "Responsiblities":[
+            "Design and develop integration components for interoperability between products.",
+           "The purpose of the adapters is to communicate information via Web Services between different systems.",
+           "Fixed bugs as part of support project.",
+           "OMS DMS Smart-Grid NPIs are executed for achieving communication between PowerOn ( an Outage Management System (OMS) ) and GENe ( a Distribution Management System (DMS) )."
+           ]
+       }],
+    "Achievements":[{
+        "Name of Company":"Magna Infotech",
+        "Award details":"Best Performer Award"  
+    },{
+        "Name of Company":"Magna Infotech",
+        "Award details":"SpotLight Award"
+    },{
+        "Name of Company":"Deloitte client",
+        "Award details":"Best Performer for GIGYA Third party project integration 2018 April"
+    },{
+        "Name of Company":"Deloitte client",
+        "Award details":"Project of the Quarter for FCF Release of D.com project."
+    },{
+        "Name of Company":"General Electric ( GE )",
+        "Award details":"Direct Material Profit (DMP) award for showing savings of $568k working in a team of 10 members"
+    },{
+        "Name of Company":"General Electric ( GE )",
+        "Award details":"Star Performer"
+    }],
+    "Education":[{
+        "Name of institution":"Gayatri Vidya Parishad College of  Engineering",
+        "Degree":"Bachelor of Technology in Computer Science and Engineering",
+        "Grade and Percentage details":"First Class and 65% aggregate."
+    },{
+        "Name of institution":"Narayana Intermediate College",
+        "Degree":"Intermediate MPC",
+        "Grade and Percentage details":" First Class and 76% aggregate"  
+    },{
+        "Name of institution":"St. Aloysius Anglo Indian High School",
+        "Degree":"Indian School Certificate of Secondary Education (ICSE)",
+        "Grade and Percentage details":"Fist Class and 76% aggregate"
+    }],
+    "Additional keywords":" AEM, core Java, JS, HTML, CSS, Apache Sling, Apache JCR"
+  }
